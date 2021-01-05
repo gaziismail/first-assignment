@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    height: 700px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    width: 500px;
+    padding-bottom: 3%;
+}
+#third-sec{
+    background-color: rgb(241, 241, 241);
+}
+#third-sec-h2{
+    text-align: center;
+    padding-top: 5%;
+}
+#h1-scnd-color{
+    color: #FF8367;
+}
+#name-color{
+    color: #F46060;
+}
+.h-name-color{
+    color: #363958;
+}
+.division{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+.button{
+    text-decoration: none;
+    padding: 15px 20px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.first-image{
+    width: 100%;
+}
