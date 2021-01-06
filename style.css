@@ -40,7 +40,8 @@ a{
     background-position: center;
 }
 #inq-h2{
-    color: white;
+    color:;
+    margin-left: 40%;
 }
 #inq-anchor{
     position: absolute;
@@ -89,10 +90,10 @@ a{
     margin-top: 10%;
 }
 .inq-div{
-    width: 10%;
+    width: 30%;
     float: left;
-    margin-left: 28%;
-    margin-top: 18%;
+    margin-left: 17%;
+    margin-top: 21%;
 }
 .bottom-div{
     width: 25%;
