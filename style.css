@@ -89,10 +89,16 @@ a{
     margin-left: 10%;
     margin-top: 10%;
 }
-.inq-div{
+.inq-div-1{
     width: 30%;
     float: left;
     margin-left: 17%;
+    margin-top: 21%;
+}
+.inq-div-2{
+    width: 30%;
+    float: right;
+    margin-right: 7%;
     margin-top: 21%;
 }
 .bottom-div{
