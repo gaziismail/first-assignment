@@ -1,8 +1,9 @@
 body{
+    margin: 0px;
     font-family: 'Bebas Neue', cursive;
 }
 section{
-    height: 800px;
+    height: 920px;
 }
 h1{
     font-size: 50px;
@@ -39,11 +40,15 @@ a{
     background-position: center;
 }
 #inq-h2{
-    color:;
+    color: white;
 }
 #inq-anchor{
     position: absolute;
     margin-top: 2%;
+}
+#bottom-sec{
+    background-color:midnightblue;
+    height: 400px;
 }
 .h-name-color{
     color: #363958;
@@ -88,4 +93,11 @@ a{
     float: left;
     margin-left: 28%;
     margin-top: 18%;
+}
+.bottom-div{
+    width: 25%;
+    float: left;
+    color: white;
+    margin-left: 8%;
+    font-family: 'Roboto', sans-serif;;
 }
