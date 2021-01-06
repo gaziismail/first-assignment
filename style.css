@@ -32,12 +32,18 @@ a{
 #name-color{
     color: #F46060;
 }
-#fourth-sec-img{
-    width: 60%;
-    padding: 10% 20%;
+#inq-section{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
 }
-#work-inq{
-    
+#inq-h2{
+    color: white;
+}
+#inq-anchor{
+    position: absolute;
+    margin-top: 2%;
 }
 .h-name-color{
     color: #363958;
@@ -76,4 +82,10 @@ a{
     width: 80%;
     margin-left: 10%;
     margin-top: 10%;
+}
+.inq-div{
+    width: 10%;
+    float: left;
+    margin-left: 28%;
+    margin-top: 18%;
 }
